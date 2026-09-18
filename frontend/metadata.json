@@ -1,0 +1,6 @@
+{
+  "name": "SBA Loan Risk Predictor",
+  "description": "ML-powered risk assessment for US Small Business Administration 7(a) guaranteed loans using XGBoost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
